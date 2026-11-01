@@ -15,7 +15,6 @@
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript">
   <img src="https://img.shields.io/badge/GitHub%20Pages-live-3fe0c5?style=flat-square&logo=github" alt="GitHub Pages">
 </p>
----
 
 ## ✨ Features
 
