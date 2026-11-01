@@ -1,21 +1,13 @@
-# 📓 EriB.log
+---
 
-**A journal on artificial intelligence, cybersecurity, and tech careers, written by Erick Bardales.**
-
-EriB.log is a personal blog and portfolio site built around one idea: *systems worth trusting, built to last.* Each journal entry breaks down a big topic in tech into plain, research-backed writing, with sources cited so readers can check the facts for themselves.
+<h2 align="center">👇 CLICK HERE TO OPEN THE SITE 👇</h2>
 
 <p align="center">
   <a href="https://erickb2021-lgtm.github.io/EriB.log/" target="_blank">
-    <img src="https://img.shields.io/badge/%F0%9F%9A%80%20Open%20EriB.log-ff4f7b?style=for-the-badge" alt="Open EriB.log" height="60">
+    <img src="https://img.shields.io/badge/%F0%9F%9A%80%20CLICK%20HERE%20%E2%86%92%20OPEN%20ERIB.LOG-ff4f7b?style=for-the-badge" alt="Click here to open EriB.log" height="90">
   </a>
 </p>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML5">
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" alt="CSS3">
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript">
-  <img src="https://img.shields.io/badge/GitHub%20Pages-live-3fe0c5?style=flat-square&logo=github" alt="GitHub Pages">
-</p>
 ---
 
 ## ✨ Features
