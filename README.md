@@ -17,7 +17,7 @@ EriB.log is a personal blog and portfolio site built around one idea: *systems w
   <img src="https://img.shields.io/badge/GitHub%20Pages-live-3fe0c5?style=flat-square&logo=github" alt="GitHub Pages">
 </p>
 
-🌐 **Live site:** [https://erickb2021-lgtm.github.io/eriblog/](https://erickb2021-lgtm.github.io/eriblog/)
+🌐 **Live site:** (https://erickb2021-lgtm.github.io/EriB.log/)
 
 ---
 
