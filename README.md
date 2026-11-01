@@ -5,7 +5,7 @@
 EriB.log is a personal blog and portfolio site built around one idea: *systems worth trusting, built to last.* Each journal entry breaks down a big topic in tech into plain, research-backed writing, with sources cited so readers can check the facts for themselves.
 
 <p align="center">
-  <a href="https://erickb2021-lgtm.github.io/eriblog/" target="_blank">
+  <a href="https://erickb2021-lgtm.github.io/EriB.log/" target="_blank">
     <img src="https://img.shields.io/badge/%F0%9F%9A%80%20Try%20it%20now-Open%20EriB.log-ff4f7b?style=for-the-badge&labelColor=1a0d3a" alt="Try it now: open EriB.log" height="42">
   </a>
 </p>
@@ -17,8 +17,7 @@ EriB.log is a personal blog and portfolio site built around one idea: *systems w
   <img src="https://img.shields.io/badge/GitHub%20Pages-live-3fe0c5?style=flat-square&logo=github" alt="GitHub Pages">
 </p>
 
-🌐 **Live site:** (https://erickb2021-lgtm.github.io/EriB.log/)
-
+🌐 **Live site:** [https://erickb2021-lgtm.github.io/EriB.log/](https://erickb2021-lgtm.github.io/EriB.log/)
 ---
 
 ## ✨ Features
