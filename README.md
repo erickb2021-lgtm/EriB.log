@@ -1,3 +1,9 @@
+# 📓 EriB.log
+
+**A journal on artificial intelligence, cybersecurity, and tech careers, written by Erick Bardales.**
+
+> *Systems worth trusting, built to last.*
+
 ---
 
 <h2 align="center">👇 CLICK HERE TO OPEN THE SITE 👇</h2>
@@ -8,53 +14,53 @@
   </a>
 </p>
 
+---
 
-<p align="center">
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML5">
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" alt="CSS3">
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript">
-  <img src="https://img.shields.io/badge/GitHub%20Pages-live-3fe0c5?style=flat-square&logo=github" alt="GitHub Pages">
-</p>
+## 🎯 Why EriB.log exists
 
-## ✨ Features
+Technology is moving faster than most people can keep up with. AI tools show up in everyday apps, scams get more convincing every year, and the job market for new tech workers keeps shifting. EriB.log was started to make sense of those changes in plain language.
 
-- 🎬 **Hero video** with an animated, layered headline
-- 🌗 **Light and dark mode** that follows each visitor's system setting, with a toggle to switch by hand (the choice carries across every page)
-- 🌙 **Moon and sun logo** that changes with the theme
-- 📊 **Facts carousel** with current statistics on AI, cybersecurity, and jobs, each linked to its source
-- 📰 **Blog dropdown** with every journal and its sections in one menu
-- ❓ **FAQ** with quick, sourced answers to common questions
-- 💡 **Color-coded glowing cards** that keep cycling colors as new content is added
-- 📱 **Responsive layout** that works on phones, tablets, and desktops
-- 📋 **One-click "Copy email"** button on the contact page
+The goal is simple: **help readers understand the technology they rely on, how to stay safe using it, and how to build a career around it.** Every entry is research-backed, written without jargon, and linked to its sources so readers can check the facts for themselves.
+
+## 👥 Who it's for
+
+- 🎓 **Students and new graduates** trying to break into tech
+- 🔄 **Career changers** curious about AI, IT, or cybersecurity
+- 🙋 **Everyday readers** who want to use AI wisely and stay safer online
+- 🧑‍💼 **Anyone** wondering how AI will affect their own job
 
 ---
 
-## 🗂️ What the blog covers
+## 🗂️ Main topics
 
 ### 🤖 Artificial Intelligence
-- Why AI is important
-- How AI is used today
-- Keeping AI maintained and reliable
-- AI and independence, including assistive robotics
-- The future of AI
+AI is only useful if people can trust it. This journal looks at why AI matters, where it is already making a difference, and what it takes to keep it accurate and reliable over time.
+
+- Why AI is important and how it is used today
+- Why AI models need ongoing testing and maintenance
+- How AI is helping people live more independently, including assistive robotics
+- Where AI is likely headed next
 
 ### 🔐 Cybersecurity
-- Why cybersecurity matters
-- The most common threats
-- Layers of defense
-- How AI is changing security
-- Everyday safety habits
+Every system people depend on needs a defense. This journal explains the threats people face most often and the habits and tools that keep them safe, whether they work in tech or not.
+
+- Why cybersecurity matters for individuals and companies
+- The most common threats, from phishing to data breaches
+- How layers of defense work together
+- How AI is changing both attacks and protection
+- Simple everyday habits that make anyone safer
 
 ### 💼 Jobs & Careers
+AI is changing what work looks like. This journal looks at how secure tech jobs really are, which fields are still growing, and what new graduates can do to stand out.
+
 - How secure jobs are today
-- How AI is changing work
-- Fields that are still growing
-- What new graduates are facing
-- How to build job security
+- How AI is changing everyday work
+- Fields that are still growing, like cybersecurity
+- What new graduates are facing in the job market
+- Practical ways to build long-term job security
 
 ### 🔭 Coming up
-Future entries may cover topics such as:
+Future entries may explore:
 - 🧪 How AI models are tested and evaluated
 - 🛡️ Getting started with security certifications like CompTIA Security+
 - 🧑‍💻 Building portfolio projects that stand out to employers
@@ -63,54 +69,24 @@ Future entries may cover topics such as:
 
 ---
 
-## 📁 Project structure
+## 🧭 The approach
 
-```
-eriblog/
-├── index.html          # Home page: hero video, intro, blog cards, facts carousel
-├── ai.html             # Artificial Intelligence journal
-├── cybersecurity.html  # Cybersecurity journal
-├── jobs.html           # Jobs & Careers journal
-├── about.html          # Education, experience, projects, and skills
-├── contact.html        # Contact card, email copy button, and FAQ
-├── hero2.mp4           # Looping hero video
-├── .nojekyll           # Tells GitHub Pages to serve the files as-is
-└── README.md
-```
-
-Every page is a self-contained HTML file. All styles and scripts are inline, and images are embedded, so there is no build step and nothing to install.
-
----
-
-## 🚀 Running it
-
-**On GitHub Pages:** push these files to a repository, then go to **Settings → Pages** and publish from the branch that holds them. `index.html` loads as the home page.
-
-**Locally:** open `index.html` in a browser, or run a simple local server from this folder:
-
-```bash
-python3 -m http.server 8000
-```
-
-Then visit `http://localhost:8000`.
-
----
-
-## 🛠️ Built with
-
-- 🧱 HTML5, CSS3, and vanilla JavaScript
-- 🔤 Google Fonts: Syne, Instrument Serif, IBM Plex Sans, IBM Plex Mono, and Archivo Black
-- 🎨 CSS custom properties for theming
+- 📚 **Research first:** claims are backed by current reports and data, such as the U.S. Bureau of Labor Statistics, the FBI, and IBM
+- 🔗 **Sources included:** every statistic links back to where it came from
+- 🗣️ **Plain language:** complex topics explained so anyone can follow along
+- 🔄 **Kept current:** entries are updated as the technology and the job market change
 
 ---
 
 ## 👋 About the author
 
-**Erick Bardales** is a Computer Science graduate from Texas State University, based in Austin, Texas. He works in AI evaluation and full-stack development, and is interested in IT, cybersecurity, and software engineering roles. He is bilingual in English and Spanish.
+**Erick Bardales** is a Computer Science graduate from Texas State University, based in Austin, Texas. He works in AI evaluation, reviewing how AI models reason and checking their answers for accuracy, and is pursuing roles in IT, cybersecurity, and software engineering. He is bilingual in English and Spanish.
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/erick-bardales-6673901a6)
 - 🐙 [GitHub](https://github.com/erickb2021-lgtm)
 - ✉️ erickb2021@gmail.com
+
+💬 Questions, feedback, or ideas for a future entry are always welcome.
 
 ---
 
